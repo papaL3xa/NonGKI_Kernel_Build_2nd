@@ -1,4 +1,4 @@
-name: Build Samsung Note 10 (OneUI A15)
+name: Build Samsung Note 10 (OneUI A15)-KPM
 
 on:
   workflow_call:
